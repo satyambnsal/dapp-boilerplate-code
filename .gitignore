@@ -4,3 +4,7 @@ node_modules
 #Hardhat files
 cache
 artifacts
+frontend/src/hardhat
+frontend-next/src/hardhat
+
+node_modules
